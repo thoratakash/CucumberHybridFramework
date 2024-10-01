@@ -1,6 +1,6 @@
 
 
-<h1 align="center">CucumberHybridFramework</h1>
+<h1 align="center">Tutorial Ninja Cucumber Hybrid Framework</h1>
 
 <h2 align="center">Introduction to Cucumber-Selenium Project for "Tutorials Ninja" Demo Site.</h2>
 
